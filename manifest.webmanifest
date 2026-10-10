@@ -1,0 +1,16 @@
+{
+  "name": "Forward UK",
+  "short_name": "Forward UK",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#EFEFEF",
+  "theme_color": "#3454D1",
+  "description": "Forward UK \u2014 Forward for Britain.",
+  "icons": [
+    {
+      "src": "forward-uk-emblem.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
