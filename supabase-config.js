@@ -5,7 +5,7 @@
 // Never put a service_role key in a public website.
 window.FORWARD_UK_BACKEND = {
   provider: "supabase",
-  supabaseUrl: "oduuqxfvmplmbuhwkajc.supabase.co",
+  supabaseUrl: "https://oduuqxfvmplmbuhwkajc.supabase.co",
   supabaseAnonKey: "sb_publishable_UEK7u2DvZXk6nComEkL_hg_xZ2F_uoS",
   pollMs: 20000
 };
